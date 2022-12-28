@@ -1,3 +1,4 @@
+// Type of pgrogram that prints reversre right angle triangel
 #include<iostream>
 using namespace std;
 int main(){
