@@ -1,3 +1,4 @@
+// Type of pgrogram that prints right angle triangele
 #include<iostream>
 using namespace std;
 int main(){
