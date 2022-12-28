@@ -12,7 +12,7 @@ int main(){
                 cout << "*";
             }
             else{
-                cout << " ";
+                cout << " ";// to give space
             }
         }
         cout << endl;
