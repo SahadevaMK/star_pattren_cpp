@@ -10,3 +10,4 @@ int main(){
         cout << endl;
     }
 }
+//thank you show some love and star the repo
