@@ -1,3 +1,5 @@
+//Starting point of the code
+
 #include<iostream>
 using namespace std;
 int main(){
