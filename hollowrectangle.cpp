@@ -1,4 +1,6 @@
 //Starting point of the code
+//thank you show some love and star the repo
+
 
 #include<iostream>
 using namespace std;
