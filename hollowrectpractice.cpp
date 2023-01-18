@@ -1,4 +1,12 @@
 //its type of rectanglge which is opposite to to the hollow rectangle
+*     *
+*     *
+* * * *
+* * * *
+* * * *
+*     *
+*     *
+//print the above pattren
 #include<iostream>
 using namespace std;
 int main(){
